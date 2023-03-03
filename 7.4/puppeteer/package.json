@@ -1,0 +1,24 @@
+{
+  "name": "jsaqa_3_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safaleks/jsaqa-code.git"
+  },
+  "bugs": {
+    "url": "https://github.com/safaleks/jsaqa-code/issues"
+  },
+  "homepage": "https://github.com/safaleks/jsaqa-code#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.4.3",
+    "jest-puppeteer": "^7.0.1",
+    "puppeteer": "^19.7.2"
+  }
+}
